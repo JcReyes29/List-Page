@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    font-family: 'Poppins', sans-serif; /* Fuente principal */
+    
+}
+.list-group > li{
+    border: none;
+}
